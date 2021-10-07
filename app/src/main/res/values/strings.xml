@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkN</string>
+
+    //nofication channel name
+    <string name="sample_notification_channel_name">Sample Notification Channel</string>
+    <string name="sample_notification_channel_description">This notification channel shows sample and demo notificaitons as high importance.</string>
+</resources>
